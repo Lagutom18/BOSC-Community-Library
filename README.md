@@ -96,7 +96,7 @@ We value contributions of all kinds! Whether you're fixing bugs, adding features
 **Quick contribution steps:**
 ```bash
 # Fork and clone the repository
-git clone https://github.com/YOUR_USERNAME/BOSC-Community-Library.git
+git clone https://github.com/Lagutom18/BOSC-Community-Library.git
 cd BOSC-Community-Library
 
 # Create a feature branch
