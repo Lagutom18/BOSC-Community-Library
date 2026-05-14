@@ -96,7 +96,7 @@ We value contributions of all kinds! Whether you're fixing bugs, adding features
 **Quick contribution steps:**
 ```bash
 # Fork and clone the repository
-git clone https://github.com/YOUR_USERNAME/BOSC-Community-Library.git
+git clone https://github.com/Lagutom18/BOSC-Community-Library.git
 cd BOSC-Community-Library
 
 # Create a feature branch
@@ -139,9 +139,9 @@ For more details, see our [LEGAL_ANALYSIS.md](./LEGAL_ANALYSIS.md).
 
 ### Getting Help
 - 📖 Check our [documentation](./docs/)
-- 💬 Open a [GitHub Discussion](https://github.com/BOSC-Community-Library/discussions)
-- 🐛 Report bugs via [GitHub Issues](https://github.com/BOSC-Community-Library/issues)
-- ✉️ Email: [maintainers@bosc-library.org](mailto:maintainers@bosc-library.org)
+- 💬 Open a [GitHub Discussion](https://github.com/Lagutom18/BOSC-Community-Library/discussions)
+- 🐛 Report bugs via [GitHub Issues](https://github.com/lagutom18/BOSC-Community-Library/issues)
+- ✉️ Email: [maintainers@bosc-library.org](lagumartin3@gmail.com)
 
 ### Stay Updated
 - ⭐ Star the repository
@@ -165,8 +165,8 @@ BOSC Community Library is built by and for the global developer community. Speci
 ## Contact
 
 **Lead Maintainer:** BOSC Community  
-**Email:** maintainers@bosc-library.org  
-**GitHub:** [@BOSC-Community-Library](https://github.com/BOSC-Community-Library)
+**Email:**lagumartin3@gmail.com  
+**GitHub:** [@BOSC-Community-Library](https://github.com/Lagutom18/BOSC-Community-Library)
 
 ---
 
